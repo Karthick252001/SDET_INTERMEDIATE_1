@@ -1,4 +1,6 @@
 Initial commit -Main branch
 Feature branch update
+<<<<<<< HEAD
 Uncommitted change
 rebase branch change
+
